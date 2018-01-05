@@ -1,4 +1,4 @@
-# Welcome to the E-Hydroponics-System wiki!
+# Welcome to the E-Hydroponics-System!
 
 ## Group Members  
 
