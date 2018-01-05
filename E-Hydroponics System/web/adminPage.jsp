@@ -7,7 +7,7 @@
 <html>
     <head>
     <div align="right">
-        <a href="index.html"><button id="button" style="width: 120px">LOGOUT</button></a>
+        <a href="index.jsp"><button id="button" style="width: 120px">LOGOUT</button></a>
     </div>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="./css/sign_up.css">
