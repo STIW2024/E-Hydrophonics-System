@@ -3,7 +3,7 @@
 <html>
     <head>
         </br>
-    <h><a href="index.html"><button id="button">BACK</button></a></h>
+    <h><a href="index.jsp"><button id="button">BACK</button></a></h>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="./css/sign_up.css">
     <title>Customer Login Page</title>
