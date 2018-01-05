@@ -33,7 +33,7 @@ public class registerCustomer extends HttpServlet {
         } catch (ClassNotFoundException | NumberFormatException | SQLException e) {
             out.print(e);
         } finally {
-            RequestDispatcher rd = request.getRequestDispatcher("index.html");
+            RequestDispatcher rd = request.getRequestDispatcher("index.jsp");
             rd.forward(request, response);
             out.close();
         }
